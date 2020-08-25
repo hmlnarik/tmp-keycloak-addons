@@ -1,0 +1,2 @@
+org.keycloak.custom.authn.context.mapper.SAMLAuthnContextProtocolMapper
+
